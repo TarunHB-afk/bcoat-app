@@ -22,7 +22,7 @@ namespace BCOAT.Controllers
         {
             return View();
         }
-
+//jfhjfjsf
         [ResponseCache(Duration = 0, Location = ResponseCacheLocation.None, NoStore = true)]
         public IActionResult Error()
         {
